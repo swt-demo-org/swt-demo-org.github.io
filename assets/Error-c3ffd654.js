@@ -1,1 +1,0 @@
-import{b as o}from"./route-block-83d24a4e.js";import{_ as r,o as n,c as t}from"./index-48fb6c4a.js";const e={};function c(s,f){return n(),t("p",null,"Oops. Something went wrong ! !")}typeof o=="function"&&o(e);const p=r(e,[["render",c]]);export{p as default};
